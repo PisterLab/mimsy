@@ -1,0 +1,2 @@
+This BSP successfully validated against openwsn-fw commit 711e4f31133e9961b2642b1e6cbdffd2b03e74de
+https://github.com/openwsn-berkeley/openwsn-fw/commit/711e4f31133e9961b2642b1e6cbdffd2b03e74de
